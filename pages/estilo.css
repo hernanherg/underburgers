@@ -168,8 +168,7 @@ footer a:hover{
 
   footer img{
     padding-top: 10px;
-    height: 4
-    0px;
+    height: 40px;
     width: auto;
     transition: all 0.5s;
     
@@ -204,6 +203,7 @@ footer a:hover{
   margin: 10px;
   transition: all 0.5s;
   filter: grayscale(100%);
+  
 }
 
 .card:hover{
@@ -251,6 +251,7 @@ footer a:hover{
   background-position: center;
   height: 240px;
   border-radius: 10px;
+  
 }
 
 .card p{
@@ -319,7 +320,7 @@ color: #fcb307;
   .menu-hamb {
     display: flex;
     flex-wrap: wrap;
-    width: 95%;
+    width: 80%;
     padding: 20px 5px 20px 5px;
     margin: 10px 5px 10px 5px;
   }
@@ -328,9 +329,9 @@ color: #fcb307;
 @media only screen and (max-width: 900px) {
   .card {
     flex-wrap: wrap;
-    width: 95%;
-    padding: 20px 5px 20px 5px;
-    margin: 10px 5px 10px 5px;
+    width: 90%;
+    /* padding: 20px 5px 20px 5px; */
+    /* margin: 10px 5px 10px 5px; */
   }
 }
 
@@ -340,10 +341,10 @@ color: #fcb307;
     flex-wrap: wrap;
     font-size: 40px;
     padding: auto;
-    /* text-align: center;
-    width: 50px; */
-    padding: 20px 5px 20px 5px;
-    margin: 10px 5px 10px 5px;
+    text-align: center;
+    width: 90%;
+    /* padding: 20px 5px 20px 5px; */
+    /* margin: 10px 5px 10px 5px; */
   }
 
   .pedir{
