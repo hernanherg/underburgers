@@ -230,7 +230,7 @@ footer a:hover{
 }
 
 .card-img-papas{
-  background-image: url(./imagenes/PAPAS.jpg);
+  background-image: url(.pages/imagenes/PAPAS.jpg);
   background-size: cover;
   background-position: center;
   height: 240px;
