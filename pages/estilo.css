@@ -203,12 +203,14 @@ footer a:hover{
   padding: 10px;
   margin: 10px;
   transition: all 0.5s;
+  filter: grayscale(100%);
 }
 
 .card:hover{
   transform: scale(1.02);
   box-shadow: 0 0 10px 10px wheat;
   transition: all 0.5s;
+  filter: grayscale(0);
 }
 
 .card-img{
@@ -217,8 +219,6 @@ footer a:hover{
   background-position: center;
   height: 240px;
   border-radius: 10px;
-
-
 }
 
 .card-img-st{
