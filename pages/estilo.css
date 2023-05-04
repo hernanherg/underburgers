@@ -229,6 +229,14 @@ footer a:hover{
   border-radius: 10px;
 }
 
+.card-img-papas{
+  background-image: url(./imagenes/PAPAS.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 240px;
+  border-radius: 10px;
+}
+
 .card-img-gula{
   background-image: url(./imagenes/GULA.jpg);
   background-size: cover;
